@@ -51,7 +51,10 @@ namespace EurekaHelper.XIV.Zones
             new(567.33813f, 35.447132f, -79.25026f),
             new(643.54285f, 35.356274f, -306.5175f),
             new(680.3775f, 40.020523f, -1.3000613f),
-            new(686.88556f, 38.07274f, -154.0496f)
+            new(686.88556f, 38.07274f, -154.0496f),
+            new(-415.0757f, 45.343655f, 138.525f),
+            new(-85.73978f, 26.00495f, 191.9998f),
+            new(339.0738f, 42.00313f, 181.90419f)
         };
 
         public EurekaAnemos(List<EurekaFate> fates) { Fates = fates; }
